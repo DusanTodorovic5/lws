@@ -2,9 +2,9 @@ export default defineAppConfig({
   docus: {
     title: 'LWS',
     layout: 'docs',
-    description: 'Access text, images, and other media with Nuxt and the Sanity headless CMS.',
+    description: 'Open source web service solution made for people',
     debug: false,
-    cover: { src: '/assets/lws.png', alt: 'A screenshot of the Nuxt Sanity module.' },
+    cover: { src: 'https://repository-images.githubusercontent.com/559210047/139e6fe0-7dcb-4c6c-aca3-3aa13581f162' },
     footer: {
       credits: false,
       iconLinks: [

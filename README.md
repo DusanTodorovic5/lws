@@ -1,3 +1,5 @@
-# lws - Little Web Services
+# LWS - Little Web Services
 
-Small cloud platform providing clients with cloud storage, nosql database and cloud computing
+Documentation of small cloud platform providing services such as cloud storage, nosql database and cloud computing
+
+*Repo is WIP, to check out the docs visit [this link](https://lws-nine.vercel.app)*

@@ -1,7 +1,6 @@
 {
-  "name": "docus-starter",
-  "version": "0.1.0",
-  "private": true,
+  "name": "lws-documentation",
+  "version": "0.0.1",
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
@@ -9,7 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.0.0",
+    "@nuxt-themes/docus": "^1.0.1",
     "@nuxtjs/tailwindcss": "^6.1.3",
     "nuxt": "^3.0.0"
   }

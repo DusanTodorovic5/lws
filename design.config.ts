@@ -1,6 +1,6 @@
-import colors from 'tailwindcss/colors'
+import { rose, zinc } from 'tailwindcss/colors'
 
-export default {
-    primary: colors.rose,
-    secondary: colors.zinc,
-}
+export const primary = rose
+
+export const secondary = zinc
+

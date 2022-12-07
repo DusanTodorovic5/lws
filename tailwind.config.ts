@@ -1,5 +1,5 @@
 import { Config } from 'tailwindcss'
-import colors from './design.config'
+import {primary, secondary} from './design.config'
 
 export default <Config>{
     darkMode: 'class',
@@ -15,8 +15,8 @@ export default <Config>{
     theme: {
         extend: {
             colors: {
-                primary: colors.primary,
-                secondary: colors.secondary,
+                primary,
+                secondary
             }
         }
     }

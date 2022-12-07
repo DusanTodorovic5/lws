@@ -2,7 +2,7 @@ import { defineTheme } from 'pinceau'
 import colors from './design.config'
 
 export default defineTheme({
-  colors: {
+  color: {
     primary: colors.primary,
     secondary: colors.secondary,
   },
